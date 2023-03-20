@@ -19,7 +19,8 @@ There are some materials to learn about the transformer network:
 
 And the following are some ready-to-use code or tools:
 
-- [Generate molecular configuration-alanine dipeptide](https://colab.research.google.com/drive/1cj1VVwFILP7cJwX0BA4RKvUrsVzJyS-S?usp=sharing)
+
 - [Parakeet入门](https://aistudio.baidu.com/aistudio/projectdetail/639029)：使用WaveFlow和Transformer TTS训练语音合成模型
 - [SoftVC VITS Singing Voice Conversion](https://github.com/svc-develop-team/so-vits-svc), The singing voice conversion model uses SoftVC content encoder to extract source audio speech features.
 - [Jukebox](https://openai.com/research/jukebox), a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. 
+- [alanine dipeptide](https://colab.research.google.com/drive/1cj1VVwFILP7cJwX0BA4RKvUrsVzJyS-S?usp=sharing), Generate molecular configurations of alanine dipeptide using a transformer network.
