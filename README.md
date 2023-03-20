@@ -1,4 +1,4 @@
-# Explore transformer network for SST
+# Explore transformer network for TTS
 
 ## Background
 The transformer network is a sequence-to-sequence model that uses an attention mechanism to map the input sequence to the output sequence. It is a powerful model that can be used in many fields, such as machine translation, image captioning, and speech synthesis.
